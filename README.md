@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kugeke-ibex" alt="kugeke-ibex" /></a> </p>
 
-- 🔭 I’m currently working on **Findin**
+- 🔭 I’m currently working on **[Findin](https://findin.jp/)**
 
 - 🌱 I’m currently learning **Golang、React**
 
