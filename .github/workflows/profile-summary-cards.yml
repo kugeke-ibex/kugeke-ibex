@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-github-profile-summary-cards
 
     steps:
       - uses: actions/checkout@v2
@@ -17,3 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_SECRETS }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
