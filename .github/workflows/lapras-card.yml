@@ -14,7 +14,7 @@ jobs:
             with:
               # 以下オプション
               # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-              SHARE_ID: <YOUR_SHARE_ID>
+              SHARE_ID: "MC4BNM3"
               ICON_FIRST: "#27417c"
               ICON_SECOND: "#1e4e66"
               BACKGROUND_FIRST: "#436ecb"
