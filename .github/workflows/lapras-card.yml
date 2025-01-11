@@ -1,24 +1,25 @@
 name: LAPRAS Card
 
 on:
-    workflow_dispatch:
-    schedule:
-        - cron: "0 0 * * *"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-    update-card:
-        name: LAPRAS Card
-        runs-on: ubuntu-latest
-        steps:
-          - uses: kawamataryo/lapras-card-readme@main
-            with:
-              # 以下オプション
-              # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-              SHARE_ID: "MC4BNM3"
-              ICON_FIRST: "#27417c"
-              ICON_SECOND: "#1e4e66"
-              BACKGROUND_FIRST: "#436ecb"
-              BACKGROUND_SECOND: "#4f7292"
-              LANG: "ja"
-              CARD_WIDTH: "400"
-              UPDATE_TIME: "true"
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          # 以下オプション
+          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
+          SHARE_ID: "MC4BNM3"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ICON_FIRST: "#27417c"
+          ICON_SECOND: "#1e4e66"
+          BACKGROUND_FIRST: "#436ecb"
+          BACKGROUND_SECOND: "#4f7292"
+          LANG: "ja"
+          CARD_WIDTH: "400"
+          UPDATE_TIME: "true"
