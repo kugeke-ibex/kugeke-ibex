@@ -24,4 +24,4 @@ jobs:
           BACKGROUND_SECOND: "#4f7292"
           LANG: "ja"
           CARD_WIDTH: "400"
-          UPDATE_TIME: "true"
+          UPDATE_TIME: "false"
