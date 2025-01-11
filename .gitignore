@@ -1,13 +1,2 @@
 # General
 .DS_Store
-
-# Visual Studio Code
-.vscode/*
-!.vscode/extensions.json
-!.vscode/launch.json
-!.vscode/settings.json
-!.vscode/tasks.json
-
-# Node
-node_modules/*
-.cache/*
