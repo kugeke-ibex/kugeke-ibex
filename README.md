@@ -69,7 +69,7 @@
 [![](https://raw.githubusercontent.com/kugeke-ibex/kugeke-ibex/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kugeke-ibex/kugeke-ibex/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MC4BNM3" target="_blank" rel="noopener noreferrer"><img alt="MC4BNM3のLAPRASでのスコアは次の通りです: エンジニアリング: 3.2 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 2.98 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=3.36&i=2.98&b1=%23436ecb&b2=%234f7292&i1=%2327417c&i2=%231e4e66&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/MC4BNM3" target="_blank" rel="noopener noreferrer"><img alt="MC4BNM3のLAPRASでのスコアは次の通りです: エンジニアリング: 3.2 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 2.99 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=3.36&i=2.99&b1=%23436ecb&b2=%234f7292&i1=%2327417c&i2=%231e4e66&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <!--
