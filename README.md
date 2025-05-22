@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KENGOL</h1>
+<h1 align="center">Hi 👋, I'm KENGOL(Kenjiro Kuge)</h1>
 <h3 align="center">Very ordinary backend engineer from Tokyo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kugeke-ibex&label=Profile%20views&color=0e75b6&style=flat" alt="kugeke-ibex" /> </p>
