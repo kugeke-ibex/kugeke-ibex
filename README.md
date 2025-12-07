@@ -93,7 +93,7 @@
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
     </a>
     <a href="https://github.com/tsenart/vegeta" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Vegeta-00ADD8?style=for-the-badge" alt="vegeta"/>
+        <img src="https://img.shields.io/badge/Vegeta-00ADD8?style=flat-square" alt="vegeta" width="60" height="20"/>
     </a>
 </p>
 
@@ -107,11 +107,19 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kugeke-ibex&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kugeke-ibex" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kugeke-ibex&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kugeke-ibex" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kugeke-ibex&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kugeke-ibex" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kugeke-ibex&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kugeke-ibex" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kugeke-ibex&layout=compact&theme=onedark" alt="kugeke-ibex" /></a> </p>
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=kugeke-ibex&layout=compact&theme=onedark" alt="kugeke-ibex" />
+    </a>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kugeke-ibex&layout=compact&theme=onedark" alt="kugeke-ibex" /></p>
 
