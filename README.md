@@ -114,7 +114,7 @@
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MC4BNM3" target="_blank" rel="noopener noreferrer"><img alt="MC4BNM3のLAPRASでのスコアは次の通りです: エンジニアリング: 3.38 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.1 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.38&b=3.48&i=3.1&b1=%23436ecb&b2=%234f7292&i1=%2327417c&i2=%231e4e66&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/MC4BNM3" target="_blank" rel="noopener noreferrer"><img alt="MC4BNM3のLAPRASでのスコアは次の通りです: エンジニアリング: 3.39 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.1 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.39&b=3.48&i=3.1&b1=%23436ecb&b2=%234f7292&i1=%2327417c&i2=%231e4e66&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 </div>
